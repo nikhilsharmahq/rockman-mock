@@ -1,0 +1,8 @@
+node_modules
+rockman-static
+.git
+.vercel
+*.py
+package-lock.json
+eslint.config.js
+vite.config.js
